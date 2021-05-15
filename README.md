@@ -1,1 +1,1 @@
-Common Tree for Nokia SDM660 Based Devices
+Common Tree for Nokia SDM710 Based Devices
